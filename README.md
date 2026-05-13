@@ -61,3 +61,7 @@ Add your deployed website link here.
 
 ```bash
 git clone https://github.com/Anjali020905/personal_profile1.git
+
+
+- [GitHub](https://github.com/Anjali020905)
+- [LinkedIn](https://www.linkedin.com/in/anjali-sindhwal-225166276)
